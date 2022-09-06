@@ -26,8 +26,8 @@ I love helping businesses showcase their full potential to the customer through 
 
 </p>
 
-<a href="https://www.github.com/Vetrivel-VP" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Vetrivel-VP?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/Nikto8962" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Nikto8962?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
