@@ -16,7 +16,6 @@ I love helping businesses showcase their full potential to the customer through 
 *   ✉️  You can contact me at [Niktodev@protonmail.com](mailto:Niktodev@protonmail.com)
 *   🤝  I'm open to collaborating on any react project
 *   ⚡  A software developer with a passion for learning and creating.
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikto8962" alt="Nikto8962" />
 
 
 ### Skills
