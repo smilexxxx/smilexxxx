@@ -18,16 +18,6 @@ I love helping businesses showcase their full potential to the customer through 
 *   ⚡  A software developer with a passion for learning and creating.
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikto8962" alt="Nikto8962" />
 
-<p align="center">
-  
-[![GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Nikto8962&theme=dark&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/Nikto8962)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikto8962&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
-
-<a href="https://www.github.com/Nikto8962" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Nikto8962?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
