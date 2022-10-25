@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Web developer
 ----------------------
 
-I love helping businesses showcase their full potential to the customer through software solutions, may that be a website and anything else. Also, I just love the process of software development, whereby you can take something from an idea to a real product that many can use. Over these years , I have started to become very versed in things like architecture designs and communication. I realised, that what differences successful projects from failed projects is those things exactly. Building proper base foundation/architecture for an application for the team to build off is extremely important. It decreases the maintenance time and as well as the time to build new features, while also making the team happier.
+I love helping businesses showcase their full potential to the customer through software solutions, may that be a website or anything else. Also, I just love the process of software development, whereby you can take something from an idea to a real product that many can use. Over these years, I have started to become very versed in things like architecture design, and communication. I realized, that what differentiates successful projects from failed projects is those things exactly. Building a proper base foundation/architecture for an application for the team to build off is extremely important. It decreases the maintenance time as well as the time to build new features, while also making the team happier.
 
 *   🌍  I'm based in Kenya
 *   🖥️  See my portfolio at [Brian Muiruri](http://brian-muiruri.vercel.app)
